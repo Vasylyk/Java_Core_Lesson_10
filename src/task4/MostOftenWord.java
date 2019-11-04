@@ -28,7 +28,7 @@ public class MostOftenWord {
                 }
             }
         }
-        System.out.println(largestNumber);
-        System.out.println(mostOftenWord);
+        System.out.println(text);
+        System.out.println("Most often word in text is: '"+mostOftenWord+"'. It meets "+largestNumber+" times.");
     }
 }
